@@ -1,2 +1,2 @@
 # SimpleCalc
-Translating my first cpp program to oop
+This is my first cpp program trasnslated from procedural to oop
